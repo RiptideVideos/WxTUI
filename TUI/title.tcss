@@ -1,0 +1,46 @@
+Warning {
+    border: solid red;
+    height: 5;
+}
+Title {
+    height: 8;
+    dock: top;
+    border: solid white;
+}
+#info {
+    dock: right;
+}
+#titleFiglet {
+    dock: left;
+    margin-left: 3;
+}
+#radiotype{
+    max-width: 47;
+    dock: left;
+}
+#radiosev{
+    max-width: 48;
+    dock: right;
+}
+#whiterule {
+    color: white;
+}
+#stateinput {
+    align-horizontal: center;
+    max-width: 70;
+}
+.whiteWarn {
+    border: solid white;
+}
+.yellowWarn {
+    border: solid ansi_bright_yellow;
+}
+.orangeWarn {
+    border: solid darkorange;
+}
+.redWarn {
+    border: solid red;
+}
+.pinkWarn {
+    border: solid magenta;
+}
